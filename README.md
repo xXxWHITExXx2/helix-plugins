@@ -1,4 +1,4 @@
-Set the gender for the fraction
+# Set the gender for the fraction
 
 FACTION.models = {
 	[1] = {
