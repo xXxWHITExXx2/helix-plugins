@@ -1,5 +1,5 @@
 LANGUAGE = {
-	gender = "Пол",
-	genderMale = "Мужчина",
-	genderFemale = "Женщина"
+	gender = "Sex",
+	genderMale = "Male",
+	genderFemale = "Female"
 }
