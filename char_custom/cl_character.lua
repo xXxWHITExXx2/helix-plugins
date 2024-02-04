@@ -64,7 +64,7 @@ ix.char.RegisterVar("height", {
 
 		local sLabel = slider.Label
 		sLabel:SetFont("ixMenuButtonFontSmall")
-		sLabel:SetText(L("Рост"):utf8upper())
+		sLabel:SetText(L("Height"):utf8upper())
 		sLabel:SizeToContents()
 
 		local sTextEntry = slider:GetTextArea()

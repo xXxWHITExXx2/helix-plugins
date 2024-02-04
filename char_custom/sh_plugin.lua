@@ -16,6 +16,9 @@ ix.util.Include("cl_charload.lua")
 ix.lang.AddTable("russian", {
 	height = "Рост"
 })
+ix.lang.AddTable("english", {
+	height = "height"
+})
 
 --[[
 ix.command.Add("CharSetHeight", {
